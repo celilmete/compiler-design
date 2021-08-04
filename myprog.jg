@@ -1,0 +1,10 @@
+func main() :
+    char var1 = 12 ;
+    int var2 = 5 ;
+    var2 = 6.3 ;
+    if var2 gt 5 :
+    var1 = 3 ;
+    else
+    var1 = 2 ;
+    endif
+endfunc
